@@ -1,4 +1,5 @@
 Raport II
+31.03.2022
 -wgrałem bibliotekę Pygame
 -pobrałem sprite samochodu
 -przerobiłem sprite, tworząc trzy różne wersje kolorystyczne, które zostaną wykorzystane w grze
@@ -9,4 +10,4 @@ Rzeczy do zrobienia:
 -zaprojektowanie tras
 -zaprojektowanie menu
 -stworzenie systemu kolizji
--nadanie każdemu pojazdowi odpowiednik sstatystyk
+-nadanie każdemu pojazdowi odpowiednik statystyk
