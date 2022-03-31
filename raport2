@@ -3,3 +3,10 @@ Raport II
 -pobrałem sprite samochodu
 -przerobiłem sprite, tworząc trzy różne wersje kolorystyczne, które zostaną wykorzystane w grze
 -przygotowałem okno na grę
+
+Rzeczy do zrobienia:
+-stworzenie modelu jazdy
+-zaprojektowanie tras
+-zaprojektowanie menu
+-stworzenie systemu kolizji
+-nadanie każdemu pojazdowi odpowiednik sstatystyk
